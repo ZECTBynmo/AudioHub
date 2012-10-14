@@ -1,0 +1,1 @@
+A test use of node-core-audio and the audio streamer. This app streams audio from one client's sound card input to another's output.
